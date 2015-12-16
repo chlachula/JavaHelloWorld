@@ -10,6 +10,7 @@ import javax.swing.JLabel;
 
 /**
  * HelloWorld on command line
+ * Update from IntelliJ IDEA 15
  *
  * @author Josef Chlachula
  */
